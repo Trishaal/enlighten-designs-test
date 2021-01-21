@@ -6,8 +6,13 @@
   .text {
     display: grid;
     grid-template-columns: 1fr  ;
-    margin-top: -20%;
+    margin-top: -30%;
     margin-left: 50%;
+    margin-bottom: 2%;
+  }
+  .image {
+    
+    height: 100%;
   }
    
 }
@@ -133,7 +138,7 @@
 .content-header
 {
     position: relative;
-    left:20%;
+    left:25%;
 
     width: 137.5px;
     height: 28px;
